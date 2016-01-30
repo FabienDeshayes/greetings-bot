@@ -1,0 +1,17 @@
+{
+  "name": "greetings-bot",
+  "version": "0.0.1",
+  "description": "A greeting bot for Slack",
+  "main": "bot.js",
+  "author": "Fabien Deshayes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FabienDeshayes/greetings-bot.git"
+  },
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}

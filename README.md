@@ -1,0 +1,4 @@
+## Env variables
+
+- ```SLACK_GREETINGS_BOT_TOKEN```
+- ```SLACK_GREETINGS_BOT_NAME```

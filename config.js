@@ -1,8 +1,8 @@
 module.exports = {
 
   welcomeMessage: {
-    text: 'Greetings fellow travellers!'
-  , channel: 'random'
+    text: 'Greetings fellow adventurers!'
+  , channel: 'general'
   }
 
 
